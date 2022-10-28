@@ -1,4 +1,4 @@
-package org.yoesoff.singleton;
+package org.yoesoff.tutorial.pattern.factory.singleton;
 
 public class SingleObject {
 	//create an object of SingleObject

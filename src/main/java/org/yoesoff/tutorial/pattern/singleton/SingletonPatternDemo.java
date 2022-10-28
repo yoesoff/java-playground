@@ -1,4 +1,4 @@
-package org.yoesoff.singleton;
+package org.yoesoff.tutorial.pattern.factory.singleton;
 
 public class SingletonPatternDemo {
 	public static void main(String[] args) {
